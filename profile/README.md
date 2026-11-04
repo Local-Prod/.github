@@ -21,7 +21,7 @@
 | [**`AlexAFK`**](https://github.com/Local-Prod/AlexAFK) | Automated AFK arena management, time-based rewards, and particle boundary outlines. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`AlexScheduler`**](https://github.com/Local-Prod/AlexScheduler) | Multilingual automated task scheduling with PlaceholderAPI cache and 21 languages. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Custom 26.2 build of block logging and anti-griefing tool with TabCompletion QoL fixes. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaAntiVPN`**](https://github.com/Delta-Prod/DeltaAntiVPN) | Real-time Anti-VPN, proxy detection, and ASN verification with dual-layer caching. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`AlexAntiVPN`**](https://github.com/Local-Prod/AlexAntiVPN) | Real-time Anti-VPN, proxy detection, and ASN verification with dual-layer caching. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaIslands`**](https://github.com/Delta-Prod/DeltaIslands) | Island management, custom schematics, grid generation, upgrades, and member roles. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaEvents`**](https://github.com/Delta-Prod/DeltaEvents) | Competitive multiplayer mini-games manager (Sumo, KOTH, MrBeast, FiveM). | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`XaeroDisabler`**](https://github.com/Delta-Prod/XaeroDisabler) | Security plugin to disable unauthorized radar and cave mapping in client mods. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
