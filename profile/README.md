@@ -14,7 +14,7 @@
 
 | Plugin | Description | Platform | Maintained By |
 | :--- | :--- | :---: | :---: |
-| [**`DeltaCore`**](https://github.com/Delta-Prod/DeltaCore) | Core plugin for Staff/Admin/Media channels, dual Discord bridge, dynamic emojis, and mentions. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`AlexCore`**](https://github.com/Local-Prod/AlexCore) | Core plugin for Staff/Admin/Media channels, dual Discord bridge, dynamic emojis, and mentions. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaPack`**](https://github.com/Delta-Prod/DeltaPack) | Velocity proxy resource pack merger, internal HTTP web server, and Geyser integration. | `Velocity` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`AlexJobs`**](https://github.com/Local-Prod/AlexJobs) | Jobs, economy, and player progression framework with anti-abuse protection. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaAuctionHouse`**](https://github.com/Delta-Prod/DeltaAuctionHouse) | High-performance player-to-player auction house with Shulker preview and claim box. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
