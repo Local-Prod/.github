@@ -19,7 +19,7 @@
 | [**`AlexJobs`**](https://github.com/Local-Prod/AlexJobs) | Jobs, economy, and player progression framework with anti-abuse protection. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`AlexAuctionHouse`**](https://github.com/Local-Prod/AlexAuctionHouse) | High-performance player-to-player auction house with Shulker preview and claim box. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`AlexAFK`**](https://github.com/Local-Prod/AlexAFK) | Automated AFK arena management, time-based rewards, and particle boundary outlines. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
-| [**`DeltaScheduler`**](https://github.com/Delta-Prod/DeltaScheduler) | Multilingual automated task scheduling with PlaceholderAPI cache and 21 languages. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
+| [**`AlexScheduler`**](https://github.com/Local-Prod/AlexScheduler) | Multilingual automated task scheduling with PlaceholderAPI cache and 21 languages. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`CoreProtect`**](https://github.com/Delta-Prod/CoreProtect) | Custom 26.2 build of block logging and anti-griefing tool with TabCompletion QoL fixes. | `Paper / Spigot` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaAntiVPN`**](https://github.com/Delta-Prod/DeltaAntiVPN) | Real-time Anti-VPN, proxy detection, and ASN verification with dual-layer caching. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
 | [**`DeltaIslands`**](https://github.com/Delta-Prod/DeltaIslands) | Island management, custom schematics, grid generation, upgrades, and member roles. | `Paper` | [@Alexxxander0](https://github.com/Alexxxander0) |
