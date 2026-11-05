@@ -33,7 +33,7 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/Delta-Prod/<RepositoryName>
+   git clone https://github.com/Local-Prod/<RepositoryName>
    ```
 
 2. **Apply necessary code changes locally.**
